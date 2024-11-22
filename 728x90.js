@@ -30,7 +30,7 @@ function loadBannerHeader() {
     }, {
         "attr": [
             {"name": "type", "value": "text/javascript"},
-            {"name": "src", "value": "//trashyepochabsorbing.com/391a7c454c7632fa62a39c1549db1f6d/invoke.js"}
+            {"name": "src", "value": "//trashyepochabsorbing.com/31ea857d05687a492c2ff82c865610d6/invoke.js"}
         ],
         "tag": "script",
         "inner": ""

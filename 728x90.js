@@ -54,7 +54,7 @@ function loadBannerHeader() {
 /* script membuat style agar iklan rata tengah (tidak perlu diganti) */
 (() => {
     const el = document.createElement("style");
-    el.innerText = `.banner, .banner-header {
+    el.innerText = `.banner-post, .banner-header {
         text-align: center;
         display: block;
     }`;

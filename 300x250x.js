@@ -19,7 +19,7 @@ function loadBannerPost() {
         "tag": "script",
         "inner": `
             atOptions = {
-                'key': '31ea857d05687a492c2ff82c865610d6',
+                'key': '391a7c454c7632fa62a39c1549db1f6d',
                 'format': 'iframe',
                 'height': 300,
                 'width': 250,

@@ -21,8 +21,8 @@ function loadBannerPost() {
             atOptions = {
                 'key': '31ea857d05687a492c2ff82c865610d6',
                 'format': 'iframe',
-                'height': 90,
-                'width': 728,
+                'height': 300,
+                'width': 250,
                 'params': {}
             };
         `
